@@ -1,0 +1,7 @@
+# Target statement of this project is to build model in 
+# the Computer vision field
+# Steps involved 
+# 1) Make research about the project how they will build
+# 2) Make plan steps to make model
+# 3) Write every inch of this code by yourself goal is NOT COPYING, UNDERSTANDING
+# 4) Finish

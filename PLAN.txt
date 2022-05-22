@@ -1,0 +1,16 @@
+#$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+#$$$$$$$$$$ TOP TASKS $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+1) Image Classificaion
+
+2) Object Detection
+
+3) Object Tracking
+
+4) Semantic Segmentation
+
+5) Instance Segmenttion
+
+6) Image Captioning
+
+ 
